@@ -6,7 +6,7 @@ public class Main {
 
 
 
-   /*     Game aGame = Game.getInstance();
+        Game aGame = Game.getInstance();
         aGame.addPlayer("AI", false);
         aGame.addPlayer("Rui", true);
         aGame.play(null);
@@ -31,7 +31,7 @@ public class Main {
         System.out.println("Should play something to win against Scissors");
         aGame.play(null);
         aGame.play(PlayType.SCISSORS);
-*/
+
 
     }
 }
